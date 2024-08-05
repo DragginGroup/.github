@@ -19,10 +19,3 @@ Djotta Flow - Assistant Animator and Artist
   
 Ronnery - Assistant Composer
 </p>
-
-## Special Thanks
-<p> 
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="50" title="bf from fnf doodle">
-
-Funkin Crew Inc - Borrowed sounds from fnf
-</p>
