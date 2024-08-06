@@ -1,5 +1,10 @@
-# BoxDragginGroup
-This small group of people are the people behind the product: BoxDrag (soon to have a new name...)
+# DragginGroup
+
+## Info
+This small group of people makin' shit for shits and giggles.
+
+## Products
+BoxDrag: v0.2.1
 
 ## Main Team
 <p>
