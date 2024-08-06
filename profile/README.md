@@ -5,34 +5,18 @@ This small group of people makin' shit for shits and giggles.
 
 ## Products
 BoxDrag: v0.2.1
+Untitled Action Game: v0.0.0
 
-## Main Team
-<p>
-<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="50" title="Among Us doodle">
-  
-Madness-Rombank
-</p>
 
-<p>
-<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="50" title="Among Us doodle but with beanie">
-  
-Djotta Flow
-</p>
-
-<p>  
-<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="50" title="ron from fnf doodle">
-  
-Ronnery
-</p>
-
-# Roles
+# Main Team
 
 ## Programmers
-Madness-Rombank
+Madness-Rombank - Lead Programmer
 
 ## Art / Animation / UI
-Madness-Rombank
-Djotta Flow
+Madness-Rombank - Artist and Animator
+Djotta Flow - Assistant Artist and Animator
 
 ## Musicians
-Ronnery
+Madness-Rombank - Composer
+Ronnery - Composer
