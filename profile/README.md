@@ -12,6 +12,9 @@ Untitled Action Game: v0.0.0
 
 # Main Team
 
+## Producers
+Madness-Rombank - Executive Producer
+
 ## Programmers
 Madness-Rombank - Lead Programmer
 
