@@ -9,6 +9,9 @@ BoxDrag: v0.2.1
 Untitled Action Game: v0.0.3b [WIP]
 ```
 
+## Links
+[DraggingGroup Blog!](https://draggingroup.github.io/Blog/)
+
 
 # Main Team
 
