@@ -32,3 +32,16 @@ Djotta Flow - Assistant Artist and Animator
 Madness-Rombank - Composer
 
 Ronnery - Composer
+
+# Blog Team
+
+
+## Producers
+Madness-Rombank - Executive Producer
+
+
+## Programmers
+Madness-Rombank - Lead Programmer
+
+## Testers
+Trippy - Tester
