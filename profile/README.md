@@ -18,13 +18,17 @@ Untitled Action Game: v0.0.3b [WIP]
 ## Producers
 Madness-Rombank - Executive Producer
 
+
 ## Programmers
 Madness-Rombank - Lead Programmer
 
+
 ## Art / Animation / UI
 Madness-Rombank - Artist and Animator
+
 Djotta Flow - Assistant Artist and Animator
 
 ## Musicians
 Madness-Rombank - Composer
+
 Ronnery - Composer
