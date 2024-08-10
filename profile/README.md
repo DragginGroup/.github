@@ -35,13 +35,13 @@ Ronnery - Composer
 
 # Blog Team
 
-
 ## Producers
 Madness-Rombank - Executive Producer
 
 
 ## Programmers
 Madness-Rombank - Lead Programmer
+Drago Cuven - Lua Programmer
 
 ## Testers
 Trippy - Tester
