@@ -16,31 +16,31 @@ Wizard Watch: v0.0.0 [WIP]
 # Main Team
 
 ## Producers
-Madness-Rombank - Executive Producer
+IdealistCat - Executive Producer
 
 
 ## Programmers
-Madness-Rombank - Lead Programmer
+IdealistCat - Lead Programmer
 
 
 ## Art / Animation / UI
-Madness-Rombank - Artist and Animator
+IdealistCat - Artist and Animator
 
 Djotta Flow - Assistant Artist and Animator
 
 ## Musicians
-Madness-Rombank - Composer
+IdealistCat - Composer
 
 Ronnery - Composer
 
 # Blog Team
 
 ## Producers
-Madness-Rombank - Executive Producer
+IdealistCat - Executive Producer
 
 
 ## Programmers
-Madness-Rombank - Lead Programmer
+IdealistCat - Lead Programmer
 Drago Cuven - Lua Programmer
 
 ## Testers
