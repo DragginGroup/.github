@@ -6,7 +6,7 @@ This small group of people makin' shit for shits and giggles.
 ## Products
 ```
 BoxDrag: v0.2.1
-Wizard Watch: v0.0.0 [WIP]
+Pupet: pre-1.04
 ```
 
 ## Links
